@@ -1,0 +1,15 @@
+D:\Projects\ApiRequestTools\ApiRequestTools\bin\Debug\netcoreapp3.1\ApiRequestTools.exe
+D:\Projects\ApiRequestTools\ApiRequestTools\bin\Debug\netcoreapp3.1\ApiRequestTools.deps.json
+D:\Projects\ApiRequestTools\ApiRequestTools\bin\Debug\netcoreapp3.1\ApiRequestTools.runtimeconfig.json
+D:\Projects\ApiRequestTools\ApiRequestTools\bin\Debug\netcoreapp3.1\ApiRequestTools.runtimeconfig.dev.json
+D:\Projects\ApiRequestTools\ApiRequestTools\bin\Debug\netcoreapp3.1\ApiRequestTools.dll
+D:\Projects\ApiRequestTools\ApiRequestTools\bin\Debug\netcoreapp3.1\ApiRequestTools.pdb
+D:\Projects\ApiRequestTools\ApiRequestTools\obj\Debug\netcoreapp3.1\ApiRequestTools.csprojAssemblyReference.cache
+D:\Projects\ApiRequestTools\ApiRequestTools\obj\Debug\netcoreapp3.1\ApiRequestTools.Form1.resources
+D:\Projects\ApiRequestTools\ApiRequestTools\obj\Debug\netcoreapp3.1\ApiRequestTools.csproj.GenerateResource.cache
+D:\Projects\ApiRequestTools\ApiRequestTools\obj\Debug\netcoreapp3.1\ApiRequestTools.AssemblyInfoInputs.cache
+D:\Projects\ApiRequestTools\ApiRequestTools\obj\Debug\netcoreapp3.1\ApiRequestTools.AssemblyInfo.cs
+D:\Projects\ApiRequestTools\ApiRequestTools\obj\Debug\netcoreapp3.1\ApiRequestTools.csproj.CoreCompileInputs.cache
+D:\Projects\ApiRequestTools\ApiRequestTools\obj\Debug\netcoreapp3.1\ApiRequestTools.dll
+D:\Projects\ApiRequestTools\ApiRequestTools\obj\Debug\netcoreapp3.1\ApiRequestTools.pdb
+D:\Projects\ApiRequestTools\ApiRequestTools\obj\Debug\netcoreapp3.1\ApiRequestTools.genruntimeconfig.cache
